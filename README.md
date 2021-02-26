@@ -2,7 +2,7 @@
 ## Automação do site http://automationpractice.com
 
 
-- ✨MSftwares necessários: Intellij
+- ✨Softwares necessários: Intellij
 
 ## Caso de teste: realizar uma compra com sucesso.
 
